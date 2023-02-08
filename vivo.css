@@ -1,0 +1,319 @@
+body{
+    margin: 0;
+    padding: 0;
+overflow-x: hidden;
+}
+
+
+.header{
+    
+    height: 150;
+}
+.logo{
+    float: left;
+    
+    width: 7%;
+    padding-left: 85px;
+   text-align: center;
+
+    
+}
+.menu{
+    float:left;
+    font-size: 14px;
+    
+    color: #242933;
+    padding-top: 10px;
+   
+
+width: 75%;
+
+}
+.menu a {
+    text-decoration: none;
+   margin: 20px;
+    color: black;
+    font-size:14px;
+    font-family: "languageFont","AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee"
+}
+.menu a:hover{
+  
+  color: blue;
+}
+.icon{
+    float: left;
+    
+    width: 10%;
+    padding: 5px;
+}
+
+.body1{
+    position: relative;
+    text-align: center;
+    color: black;
+    height:600px ;
+}
+.head1{
+    position: absolute;
+    top: 240px;
+    left: 250px;
+    font-family: "languageFont","AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+    color: -webkit-link;
+    font-size: 30px;
+}
+.head2{
+    position: absolute;
+    top: 280px;
+    left: 210px;
+    font-family: "languageFont","AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+    color: -webkit-link;
+    font-size: 30px;
+}
+
+.head{
+    position: absolute;
+    top: 320px;
+    left: 210px;
+    font-family: "languageFont","AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+    color: -webkit-link;
+    font-size: 30px;
+    
+
+}
+.head a{
+    text-decoration: none;
+
+}
+
+.body2{
+    background-size: 300px 700px;
+    
+    position: relative;
+    text-align:left;
+    color: white;
+    margin: 40px;
+     height: 500px;
+}
+.image1{
+    border-style: dotted;
+    border: 10px;
+    border-radius: 25px;
+    
+}
+ 
+.head3{
+    position: absolute;
+    top: 360px;
+    left: 210px;
+     font-size: 35px;
+   
+     font-family: "languageFont","AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+}
+.head4{
+    position: absolute;
+    top: 400px;
+    left: 210px;
+     font-size: 25px;
+    font-family: "languageFont","AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+
+}
+.head5{
+    position: absolute;
+    top: 520px;
+    left: 210px;
+     font-size: 15px;
+    font-family: "languageFont","AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+
+}
+.first{
+    float: left;
+}
+.body3{
+
+    width: 100%;
+    height: 700px;
+   
+}
+.body4{
+    width: 100%;
+    height: 1200px;
+    background-color:rgb(242, 242, 252);
+
+    
+}
+.head6{
+    
+    font-family: "languageFont","AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+     font-size: 40px;
+    color: rgb(36, 41, 51);
+    margin-bottom: 40px;
+  
+}
+.first{
+width: 400px;
+float: left;
+position: relative;
+text-align:-webkit-match-parent;
+border: 5px;
+border-radius:35px;
+}
+.head7{
+    position:absolute;
+    font-size: 15px;
+      color: aliceblue;
+     font-family: "languageFont","AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+    top: 170px;
+
+}
+.image2{
+    border-style: dotted;
+    border: 10px;
+    border-radius: 25px;
+
+}
+.second{
+    position: relative;
+text-align:-webkit-match-parent;
+border-radius:35px;
+    float: right;
+    width: 450px;
+    height: 600px;
+    border-style: dotted;
+    border: 10px;
+    border-radius: 25px;
+    background-color: white;
+
+}
+
+.head8{
+    position:absolute;
+    font-size: 25px;
+      
+     font-family: "languageFont","AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+    
+    background-color: white;
+    width: 450px;
+    height: 150px;
+    padding: 50px;
+border-style: dotted;
+border: 10px;
+border-radius: 25px;
+
+    
+}
+.im4{
+    border-style: dotted;
+    border: 10px;
+    border-radius: 30px;
+
+}
+.third{
+    position: relative;
+    text-align:-webkit-match-parent;
+    border-radius:35px;
+        
+      float: left;
+      
+    
+        width: 400px;
+        height: 600px;
+       
+        
+      
+}
+.head9{
+    position:absolute;
+    font-size: 15px;
+      
+     font-family: "languageFont","AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+    top: 500px;
+left:40px ;
+color: aliceblue;
+
+}
+.image3{
+    border-style: dotted;
+    border: 10px;
+    border-radius: 30px;
+
+}
+
+.fourth{
+    position: relative;
+text-align:-webkit-match-parent;
+border-radius:35px;
+    
+  float: left;
+  
+
+    width: 250px;
+    height: 600px;
+  
+
+
+
+}
+.head10{
+    position:absolute;
+    font-size: 15px;
+      
+     font-family: "languageFont","AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+    top: 200px;
+    color: antiquewhite;
+
+
+}
+.image5{
+    border-style: dotted;
+    border: 10px;
+    border-radius: 30px;
+
+
+}
+.fifth{
+    float: right;
+    
+    position: relative;
+text-align:-webkit-match-parent;
+border-radius:35px;
+    width: 500px;
+    height: 600px;
+
+
+
+}
+.head11{
+    position:absolute;
+    font-size: 15px;
+      
+     font-family: "languageFont","AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+    top: 250px;
+color: aliceblue;
+left: 10px;
+}
+.image6{
+    border-style: dotted;
+    border: 10px;
+    border-radius: 30px;
+
+
+}
+
+.footer{
+    
+    background-color:rgba(9, 9, 10, 0.911);
+    align-content:center;
+    width: 100%;
+    height: 800px;
+    color:grey;
+    font-family: "languageFont","AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+}
+.head12{
+    grid: spacing 15px;
+    text-size-adjust: 3px;
+}
+
+
+
+    
+ 
